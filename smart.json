@@ -3,6 +3,6 @@
   "description": "Syntax highlighting for 35 languages with highlight.js (v8.1)",
   "homepage": "https://github.com/apportable/meteor-syntax-highlighting",
   "author": "Zach Alexander",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/apportable/meteor-syntax-highlighting"
 }
